@@ -1,0 +1,33 @@
+_repo: Ruoskanjaljet-b-Runoja_73277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jylhä, Yrjö
+    aliases:
+    - Jylha, Yrjo
+    - Jylhä, Yrjö Olavi
+    birthdate: 1903
+    deathdate: 1956
+    gutenberg_agent_id: '56990'
+    url: http://www.gutenberg.org/2009/agents/56990
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Jylh%C3%A4
+description: ''
+gutenberg_issued: '2024-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73277'
+language: fi
+pgterms:marc905: 20240322122748jylh
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Ruoskanjäljet : $b Runoja'
+url: http://www.gutenberg.org/ebooks/73277
