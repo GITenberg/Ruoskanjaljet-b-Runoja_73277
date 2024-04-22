@@ -1,5 +1,8 @@
 _repo: Ruoskanjaljet-b-Runoja_73277
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jylhä, Yrjö
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56990
     wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Jylh%C3%A4
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73277#Ruoskanjaljet-b-Runoja
 gutenberg_issued: '2024-03-28'
 gutenberg_type: Text
 identifiers:
